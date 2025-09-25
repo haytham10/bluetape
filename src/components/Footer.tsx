@@ -5,8 +5,11 @@ const Footer: React.FC = () => (
     <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
       <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
         <div className="col-span-1 md:col-span-2">
-          <img src="/logo-wide copy.png" alt="BlueTape" className="h-8 w-auto mb-4 brightness-0 invert hover:scale-105 transition-transform duration-200" />
-          <p className="text-gray-400 max-w-md">Helping small contractors stay compliant, avoid fines, and focus on what they do best - building.</p>
+			<div className="flex items-center mb-4">
+				<img src="/logo-icon.png" alt="BlueTape Logo" className="h-8 w-8 mr-1" />
+				<span className="font-bold text-primary-400 text-xl ml-1">BlueTape</span>
+			</div>
+			<p className="text-gray-400 max-w-md">Helping small contractors stay compliant, avoid fines, and focus on what they do best - building.</p>
         </div>
         <div>
           <h4 className="font-semibold mb-4">Product</h4>
