@@ -1,4 +1,5 @@
 # BlueTape
+![BlueTape Logo](public/logo-wide.png)
 
 Compliance made easy for small construction contractors.
 
@@ -28,11 +29,6 @@ BlueTape helps contractors stay compliant without the headache. It keeps track o
 - Smart reminders at 90/30/7 days
 - Clean, easy‑to‑read dashboard
 - Built specifically for small contractors
-
-## A quick look
-![BlueTape Logo](public/logo-wide.png)
-
-Hero section sets the tone with a bold promise: stop losing money to compliance fines. The page flows into the problem, the solution, a quick preview of the dashboard cards, happy customers, and pricing. It ends with a friendly invite to join the Early Access waitlist.
 
 ## Join the Early Access list
 Want first access and special launch pricing? Join the waitlist on the website and help shape BlueTape with your feedback.
