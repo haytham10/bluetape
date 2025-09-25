@@ -1,0 +1,6 @@
+# Robots.txt for BlueTape
+User-agent: *
+Allow: /
+
+# Point to your sitemap
+Sitemap: https://bluetape.app/sitemap.xml
